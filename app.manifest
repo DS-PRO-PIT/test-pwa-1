@@ -1,6 +1,7 @@
 {
   "name": "App 52e7ca86",
   "icons": [
+    { "src": "box.32x32.png", "type": "image/png", "sizes": "32x32" }
   ],
   "start_url": ".",
   "display": "browser"
